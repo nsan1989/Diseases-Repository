@@ -1,0 +1,33 @@
+{
+    "name": "Diabetes",
+    "slug": "diabetes",
+    "about": "Diabetes is a metabolic disorder characterized by persistently high blood sugar levels.",
+    "symptoms": [
+        "Increased thirst",
+        "Frequent urination",
+        "Fatigue",
+        "Blurred vision"
+    ],
+    "causes": [
+        "Insulin deficiency",
+        "Insulin resistance",
+        "Genetic factors",
+        "Lifestyle factors"
+    ],
+    "diagnosis": [
+        "Fasting blood glucose test",
+        "HbA1c test",
+        "Oral glucose tolerance test"
+    ],
+    "treatment": [
+        "Diet and lifestyle modification",
+        "Oral medications",
+        "Insulin therapy"
+    ],
+    "prevention": [
+        "Healthy diet",
+        "Regular exercise",
+        "Weight management"
+    ],
+    "department": "Endocrinology"
+}

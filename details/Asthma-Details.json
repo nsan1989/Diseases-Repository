@@ -1,0 +1,33 @@
+{
+    "name": "Asthma",
+    "slug": "asthma",
+    "about": "Asthma is a chronic condition in which the airways become inflamed and narrowed, causing difficulty in breathing.",
+    "symptoms": [
+        "Shortness of breath",
+        "Wheezing",
+        "Chest tightness",
+        "Coughing, especially at night"
+    ],
+    "causes": [
+        "Genetic factors",
+        "Exposure to allergens",
+        "Air pollution",
+        "Respiratory infections"
+    ],
+    "diagnosis": [
+        "Physical examination",
+        "Spirometry",
+        "Peak flow test"
+    ],
+    "treatment": [
+        "Inhalers",
+        "Anti-inflammatory medications",
+        "Avoiding triggers"
+    ],
+    "prevention": [
+        "Avoid smoking",
+        "Reduce allergen exposure",
+        "Regular medical follow-up"
+    ],
+    "department": "Pulmonology"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Dengue",
+    "slug": "dengue",
+    "about": "Dengue is a mosquito-borne viral infection causing flu-like illness and, in severe cases, complications.",
+    "symptoms": [
+        "High fever",
+        "Severe headache",
+        "Muscle and joint pain",
+        "Skin rash"
+    ],
+    "causes": [
+        "Dengue virus transmitted by Aedes mosquitoes"
+    ],
+    "diagnosis": [
+        "Blood tests",
+        "NS1 antigen test"
+    ],
+    "treatment": [
+        "Supportive care",
+        "Adequate hydration",
+        "Pain relievers (paracetamol)"
+    ],
+    "prevention": [
+        "Mosquito control",
+        "Use of repellents",
+        "Eliminate stagnant water"
+    ],
+    "department": "General Medicine"
+}

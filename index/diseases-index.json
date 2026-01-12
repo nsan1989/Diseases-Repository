@@ -1,1 +1,143 @@
-
+{
+    "A": [
+        {
+            "name": "Asthma",
+            "slug": "asthma"
+        },
+        {
+            "name": "Anemia",
+            "slug": "anemia"
+        },
+        {
+            "name": "Appendicitis",
+            "slug": "appendicitis"
+        }
+    ],
+    "B": [
+        {
+            "name": "Bronchitis",
+            "slug": "bronchitis"
+        },
+        {
+            "name": "Breast Cancer",
+            "slug": "breast-cancer"
+        }
+    ],
+    "C": [
+        {
+            "name": "Chickenpox",
+            "slug": "chickenpox"
+        },
+        {
+            "name": "COVID-19",
+            "slug": "covid-19"
+        }
+    ],
+    "D": [
+        {
+            "name": "Diabetes",
+            "slug": "diabetes"
+        },
+        {
+            "name": "Dengue",
+            "slug": "dengue"
+        }
+    ],
+    "E": [
+        {
+            "name": "Epilepsy",
+            "slug": "epilepsy"
+        }
+    ],
+    "F": [
+        {
+            "name": "Flu",
+            "slug": "flu"
+        }
+    ],
+    "G": [
+        {
+            "name": "Gastritis",
+            "slug": "gastritis"
+        }
+    ],
+    "H": [
+        {
+            "name": "Hypertension",
+            "slug": "hypertension"
+        }
+    ],
+    "I": [
+        {
+            "name": "Influenza",
+            "slug": "influenza"
+        }
+    ],
+    "J": [],
+    "K": [],
+    "L": [
+        {
+            "name": "Liver Disease",
+            "slug": "liver-disease"
+        }
+    ],
+    "M": [
+        {
+            "name": "Migraine",
+            "slug": "migraine"
+        }
+    ],
+    "N": [
+        {
+            "name": "Nephritis",
+            "slug": "nephritis"
+        }
+    ],
+    "O": [
+        {
+            "name": "Osteoporosis",
+            "slug": "osteoporosis"
+        }
+    ],
+    "P": [
+        {
+            "name": "Pneumonia",
+            "slug": "pneumonia"
+        }
+    ],
+    "Q": [],
+    "R": [
+        {
+            "name": "Rheumatoid Arthritis",
+            "slug": "rheumatoid-arthritis"
+        }
+    ],
+    "S": [
+        {
+            "name": "Stroke",
+            "slug": "stroke"
+        }
+    ],
+    "T": [
+        {
+            "name": "Tuberculosis",
+            "slug": "tuberculosis"
+        }
+    ],
+    "U": [
+        {
+            "name": "Urinary Tract Infection",
+            "slug": "urinary-tract-infection"
+        }
+    ],
+    "V": [
+        {
+            "name": "Vitamin D Deficiency",
+            "slug": "vitamin-d-deficiency"
+        }
+    ],
+    "W": [],
+    "X": [],
+    "Y": [],
+    "Z": []
+}
